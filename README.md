@@ -1,4 +1,4 @@
-# BoilerBuddies — persistent MVP
+# BoilerBuddies
 
 BoilerBuddies is a Flask + SQLite campus friendship and meetup app. This version replaces fictional seed profiles and in-memory demo interactions with persistent accounts, editable profiles, database-backed meetups, and real join/leave actions.
 
